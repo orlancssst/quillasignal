@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(#525252, #1E1E1E)
+}
+
+
+mat-form-field.mat-focused:first-child mat-label{
+    color:white;
+  }
+  
+  
+  mat-form-field.mat-focused:last-child mat-label{
+    color:white;
+  }
+
+  mat-select {
+      color: white;
+  }
