@@ -1,0 +1,41 @@
+mat-card {
+    margin: auto;
+    width: 70%;
+    display: block;
+    margin-top: 2rem;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 175%;
+}
+
+h3 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 140%;
+}
+
+#sec2{
+    background-image: linear-gradient(#E1E1E1, #C8C8C8)
+}
+
+mat-grid-list {
+    margin: auto;
+    width: 70%;
+    display: block;
+    margin-top: 2rem;
+}
+
+#primera-foto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 8px;
+}
+
+#info-grid {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    text-align: justify;
+    font-size: 16px;
+}
